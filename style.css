@@ -91,7 +91,7 @@ input::placeholder{
     .search-box input{
         padding: 0px;
         font-size: 17px;
-/*         text-align: center; */
+        text-align: center;
     }
     .search-box button{
         padding: 10px 10px;
