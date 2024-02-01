@@ -83,15 +83,17 @@ input::placeholder{
         margin-bottom: 50px;
     }
     .search-box{
-        width: 270px;
         margin: 30px auto 0px;
         gap:0px;
-        border-radius:20px
+        border-radius:20px;
+        width: 200px;
     }
     .search-box input{
+        flex:0;
         padding: 0px;
         font-size: 17px;
         text-align: center;
+        width: 140px;
     }
     .search-box button{
         padding: 10px 10px;
